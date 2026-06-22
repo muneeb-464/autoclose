@@ -1,1 +1,1 @@
-Python auto Clos
+Python auto Close
