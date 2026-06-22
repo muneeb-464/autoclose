@@ -1,1 +1,1 @@
-Python aut
+Python auto
