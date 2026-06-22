@@ -1,1 +1,1 @@
-Python auto Close Progra
+Python auto Close Program
